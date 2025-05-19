@@ -1,10 +1,11 @@
-# Node.js template
+Live API Base URL:
+https://qf9ffq--3000.preview.csb.app
 
-This is a Node.js project.
+API Endpoints:
+- GET all players: `/api/players`
+- GET player by ID: `/api/players/:id`
+- POST create player: `/api/players`
+- PUT update player: `/api/players/:id`
+- PATCH update player: `/api/players/:id`
+- DELETE player: `/api/players/:id`
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
