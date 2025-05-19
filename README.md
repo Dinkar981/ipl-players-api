@@ -9,3 +9,5 @@ API Endpoints:
 - PATCH update player: `/api/players/:id`
 - DELETE player: `/api/players/:id`
 
+
+
